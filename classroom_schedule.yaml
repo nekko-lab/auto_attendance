@@ -1,0 +1,5 @@
+Mon: # 曜日
+    - periods: [1, 2, n] # 1限, 2限, n限
+      subject: 授業名 # 今は未使用
+      teacher: ""
+      classroom: "123" # 教室名

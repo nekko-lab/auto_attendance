@@ -1,0 +1,7 @@
+# 授業時間設定
+period_config:
+  start_hour: 9 # 1限の開始時間（例: 9時）
+  period_count: 10 # 授業時限数（例: 〜10限）
+  period_duration_minutes: 60 # 授業の長さN分（例: 60分）
+  attendance_buffer_minutes: 30 # 前後N分受付 （例: 30分）
+
